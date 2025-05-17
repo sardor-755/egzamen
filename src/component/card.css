@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 20px 30px;
+    margin-bottom: 30px;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.card{
+    width: 270px;
+    height: 422px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
+.main{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card img{
+    width: 100%;
+}
+
+
+
+
+
